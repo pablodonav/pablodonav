@@ -12,5 +12,6 @@ Puedes contactarme a través de los siguientes canales:
 
 ## Estadísticas
 ![](https://komarev.com/ghpvc/?username=pablodonav)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ¡No dudes en contactar conmigo! Estoy abierto a colaboraciones y nuevas oportunidades.
