@@ -1,17 +1,66 @@
-# ¡Hola! ¡Bienvenidos a mi perfil! 👋
+<div align="center">
 
-## Sobre mí
-Soy un desarrollador apasionado por la tecnología y la programación. Me especializo en Inteligencia Artificial. Siempre estoy buscando oportunidades para aprender y crecer en el mundo de la tecnología.
+# Pablo Doñate 👋
 
-## Contacto
-Puedes contactarme a través de los siguientes canales:
+**`Desarrollador · AI Engineer`**
 
-- 🌐 [Sitio web personal](https://init-sdn.github.io/pablo)
-- ✉️ [Correo electrónico](mailto:pdonate@unizar.es)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pablodonav/)
+🧠 Deep Learning &nbsp;·&nbsp; 📈 ML &nbsp;·&nbsp; 🎮 Reinforcement Learning &nbsp;·&nbsp; 💬 NLP
 
-## Estadísticas
-![](https://komarev.com/ghpvc/?username=pablodonav)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablodonav)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://init-sdn.github.io/pablo"><img src="https://img.shields.io/badge/Web-init--sdn.github.io%2Fpablo-0969da?style=flat-square&logo=safari&logoColor=white"/></a>
+<a href="mailto:pdonate@unizar.es"><img src="https://img.shields.io/badge/Email-pdonate%40unizar.es-24292f?style=flat-square&logo=maildotru&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pablodonav/"><img src="https://img.shields.io/badge/LinkedIn-pablodonav-0969da?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=pablodonav&color=0969da&style=flat-square&label=Visitas"/>
 
-¡No dudes en contactar conmigo! Estoy abierto a colaboraciones y nuevas oportunidades.
+</div>
+
+<br/>
+
+## 🧑‍💻 &nbsp;Sobre mí
+
+Soy un desarrollador apasionado por la tecnología, especializado en **Inteligencia Artificial**. Mi foco está en *Deep Learning*, *Machine Learning*, *Reinforcement Learning* y *NLP*. Siempre estoy buscando oportunidades para aprender, colaborar y crecer.
+
+<br/>
+
+## 🚀 &nbsp;Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔬 &nbsp;Proyecto de IA</h4>
+      <p>Espacio reservado — añade aquí tu proyecto más relevante con una breve descripción.</p>
+      <sub><code>Python</code> · <code>PyTorch</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✨ &nbsp;Proyecto personal</h4>
+      <p>Espacio reservado — añade aquí otro trabajo destacado que quieras mostrar.</p>
+      <sub><code>Python</code> · <code>TensorFlow</code></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 &nbsp;Estadísticas
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=pablodonav&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodonav&layout=donut&hide_border=true&title_color=0969da&text_color=24292f&bg_color=ffffff&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=pablodonav&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&area_color=0969da&hide_border=true&custom_title=Actividad%20reciente" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>✨ &nbsp;<i>Abierto a colaboraciones y nuevas oportunidades.</i> &nbsp;✨</sub>
+</div>
