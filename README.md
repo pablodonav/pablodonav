@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=800&color=0969DA&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Pablo+%F0%9F%91%8B;Desarrollador+%7C+AI+Engineer;Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+RL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=800&color=0969DA&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Pablo+%F0%9F%91%8B" alt="Typing SVG" />
 
 **`Desarrollador · AI Engineer`**
 
