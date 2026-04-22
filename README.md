@@ -37,7 +37,9 @@ Soy un desarrollador apasionado por la tecnología, especializado en **Inteligen
   </tr>
 </table>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=pablodonav&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&area_color=0969da&hide_border=true&custom_title=Actividad%20reciente" />
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quoteCategory=code" alt="Quote of the day" />
 
 </div>
 
@@ -46,3 +48,4 @@ Soy un desarrollador apasionado por la tecnología, especializado en **Inteligen
 <div align="center">
 <sub>✨ &nbsp;<i>Abierto a colaboraciones y nuevas oportunidades.</i> &nbsp;✨</sub>
 </div>
+
