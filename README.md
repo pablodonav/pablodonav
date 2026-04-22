@@ -21,25 +21,6 @@ Soy un desarrollador apasionado por la tecnología, especializado en **Inteligen
 
 <br/>
 
-## 🚀 &nbsp;Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔬 &nbsp;Proyecto de IA</h4>
-      <p>Espacio reservado — añade aquí tu proyecto más relevante con una breve descripción.</p>
-      <sub><code>Python</code> · <code>PyTorch</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>✨ &nbsp;Proyecto personal</h4>
-      <p>Espacio reservado — añade aquí otro trabajo destacado que quieras mostrar.</p>
-      <sub><code>Python</code> · <code>TensorFlow</code></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## 📊 &nbsp;Estadísticas
 
 <div align="center">
