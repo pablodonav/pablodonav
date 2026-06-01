@@ -31,7 +31,7 @@
 
 ## 🧑‍💻 &nbsp;Sobre mí
 
-Soy un desarrollador apasionado por la tecnología, especializado en **Inteligencia Artificial**. Mi foco está en *Deep Learning*, *Machine Learning*, *Reinforcement Learning* y *NLP*. Siempre estoy buscando oportunidades para aprender, colaborar y crecer.
+Soy desarrollador e investigador, especializado en **Inteligencia Artificial**. Mi foco está en *Deep Learning*, *Machine Learning*, *Reinforcement Learning* y *Smart Energy*.
 
 <br/>
 
