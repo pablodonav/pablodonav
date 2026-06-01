@@ -7,10 +7,25 @@
 
 🧠 Deep Learning &nbsp;·&nbsp; 📈 ML &nbsp;·&nbsp; 🎮 Reinforcement Learning &nbsp;·&nbsp; 💬 NLP
 
-<a href="https://init-sdn.github.io/pablo"><img src="https://img.shields.io/badge/Web-init--sdn.github.io%2Fpablo-0969da?style=flat-square&logo=safari&logoColor=white"/></a>
-<a href="mailto:pdonate@unizar.es"><img src="https://img.shields.io/badge/Email-pdonate%40unizar.es-24292f?style=flat-square&logo=maildotru&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pablodonav/"><img src="https://img.shields.io/badge/LinkedIn-pablodonav-0969da?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=pablodonav&color=0969da&style=flat-square&label=Visitas"/>
+<div align="center">
+
+<a href="https://init-sdn.github.io/pablo">
+  <img src="https://img.shields.io/badge/Portfolio-24292f?style=for-the-badge"/>
+</a>
+
+<a href="mailto:pdonate@unizar.es">
+  <img src="https://img.shields.io/badge/Email-24292f?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pablodonav/">
+  <img src="https://img.shields.io/badge/LinkedIn-24292f?style=for-the-badge"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=pablodonav&color=0969da&style=flat-square&label=visitas"/>
+
+</div>
 
 </div>
 
