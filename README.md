@@ -9,23 +9,21 @@
 
 <div align="center">
 
-<a href="https://init-sdn.github.io/pablo">
-  <img src="https://img.shields.io/badge/Portfolio-24292f?style=for-the-badge"/>
-</a>
+  <a href="https://init-sdn.github.io/pablo">
+    <img src="https://img.shields.io/badge/Portfolio-24292f?style=for-the-badge"/>
+  </a>
+  
+  <a href="mailto:pdonate@unizar.es">
+    <img src="https://img.shields.io/badge/Email-24292f?style=for-the-badge"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pablodonav/">
+    <img src="https://img.shields.io/badge/LinkedIn-24292f?style=for-the-badge"/>
+  </a>
 
-<a href="mailto:pdonate@unizar.es">
-  <img src="https://img.shields.io/badge/Email-24292f?style=for-the-badge"/>
-</a>
+  <br>
 
-<a href="https://www.linkedin.com/in/pablodonav/">
-  <img src="https://img.shields.io/badge/LinkedIn-24292f?style=for-the-badge"/>
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=pablodonav&color=0969da&style=flat-square&label=visitas"/>
-
-</div>
+  <img src="https://komarev.com/ghpvc/?username=pablodonav&color=0969da&style=flat-square&label=visitas"/>
 
 </div>
 
@@ -36,6 +34,8 @@
 Soy un desarrollador apasionado por la tecnología, especializado en **Inteligencia Artificial**. Mi foco está en *Deep Learning*, *Machine Learning*, *Reinforcement Learning* y *NLP*. Siempre estoy buscando oportunidades para aprender, colaborar y crecer.
 
 <br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quoteCategory=code" alt="Quote of the day" />
 
 <div align="center">
 <sub>✨ &nbsp;<i>Abierto a colaboraciones y nuevas oportunidades.</i> &nbsp;✨</sub>
