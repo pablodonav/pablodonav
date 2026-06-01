@@ -31,7 +31,7 @@
 
 ## 🧑‍💻 &nbsp;Sobre mí
 
-Soy desarrollador e investigador, especializado en **Inteligencia Artificial**. Mi foco está en *Deep Learning*, *Machine Learning* y *Reinforcement Learning*, aplicado principalmente a *Smart Energy*.
+Soy desarrollador e investigador, especializado en **Inteligencia Artificial**. Mi foco está en *Deep Learning*, *Machine Learning* y *Reinforcement Learning*, aplicado principalmente a *Smart Energy* ⚡️.
 
 <br/>
 
