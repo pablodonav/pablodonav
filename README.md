@@ -22,29 +22,6 @@ Soy un desarrollador apasionado por la tecnología, especializado en **Inteligen
 
 <br/>
 
-## 📊 &nbsp;Estadísticas
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=pablodonav&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodonav&layout=donut&hide_border=true&title_color=0969da&text_color=24292f&bg_color=ffffff&langs_count=6" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quoteCategory=code" alt="Quote of the day" />
-
-</div>
-
-<br/>
-
 <div align="center">
 <sub>✨ &nbsp;<i>Abierto a colaboraciones y nuevas oportunidades.</i> &nbsp;✨</sub>
 </div>
